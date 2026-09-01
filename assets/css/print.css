@@ -1,0 +1,133 @@
+/* ==========================================================================
+   Longhold Yoga - print stylesheet
+   Optimized for printing a sequence or a pose breakdown onto letter paper.
+   Loaded on every page with media="print".
+   ========================================================================== */
+
+@page {
+  size: letter portrait;
+  margin: 0.6in 0.7in;
+}
+
+@media print {
+
+  html, body {
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 9.5pt;
+    line-height: 1.38;
+  }
+
+  /* Handout density: a practice sheet should sit at the edge of a mat, so
+     everything is tightened well past the on-screen reading rhythm. */
+  p { margin: 0 0 5pt; }
+  ul, ol { margin: 0 0 6pt; padding-left: 13pt; }
+  li { margin-bottom: 2pt; }
+  .lede { font-size: 10pt; }
+  .page-head { padding: 0 !important; }
+  .breakdown__block { margin-bottom: 8pt !important; }
+  .mods { gap: 6pt !important; }
+  .mod { padding: 6pt 8pt !important; }
+  .label { font-size: 7.5pt; }
+
+  /* Chrome for the screen has no business on paper */
+  .site-header,
+  .breath-bar,
+  .site-footer,
+  .cookie-banner,
+  .back-to-top,
+  .ad-slot,
+  .nav,
+  .nav-toggle,
+  .skip-link,
+  .player__controls,
+  .player__rail,
+  .filters,
+  .breadcrumb,
+  .btn-row,
+  .newsletter-inline,
+  [data-print="hide"] {
+    display: none !important;
+  }
+
+  main, .wrap, .measure, .prose { max-width: none !important; padding: 0 !important; margin: 0 !important; }
+
+  .section {
+    padding: 0 0 14pt !important;
+    border-top: 0 !important;
+    background: #fff !important;
+    break-inside: auto;
+  }
+
+  h1 { font-size: 20pt; margin-bottom: 4pt; }
+  h2 { font-size: 14pt; margin-top: 14pt; margin-bottom: 4pt; break-after: avoid; }
+  h3 { font-size: 12pt; margin-top: 10pt; margin-bottom: 3pt; break-after: avoid; }
+
+  p, li { orphans: 3; widows: 3; }
+
+  a { color: #000 !important; text-decoration: none !important; }
+  /* Print the destination so a paper handout is still usable */
+  .prose a[href^="http"]::after,
+  .measure a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 9pt; color: #444; }
+  a[href^="#"]::after { content: ""; }
+
+  img {
+    max-width: 46% !important;
+    break-inside: avoid;
+    filter: grayscale(100%);
+  }
+  .hero__media, .page-media { display: none !important; }
+
+  .card, .breakdown, .callout, .player, .plan, .toc {
+    border: 0.6pt solid #999 !important;
+    background: #fff !important;
+    padding: 8pt 10pt !important;
+    break-inside: avoid;
+  }
+
+  .steps > li,
+  .seq-list > li,
+  .rule-list > li,
+  .glossary > div {
+    break-inside: avoid;
+    border-bottom: 0.4pt solid #bbb !important;
+    padding: 4pt 0 !important;
+  }
+  .steps > li::before,
+  .seq-list > li::before { color: #000 !important; font-size: 11pt !important; }
+  .seq-list > li.is-current { background: #fff !important; }
+  .seq-list__cue { font-size: 8.5pt; line-height: 1.32; }
+  .seq-list__hold { font-size: 8.5pt; font-weight: 600; }
+
+  /* Spec grids print as a compact two-column key/value block */
+  .spec-grid { grid-template-columns: repeat(2, 1fr) !important; column-gap: 16pt !important; }
+  .spec-grid > div { padding: 3pt 0 !important; }
+  .spec-grid dt { font-size: 7.5pt !important; margin-bottom: 1pt !important; }
+  .spec-grid dd { font-size: 9pt !important; }
+
+  .player__now { font-size: 13pt; }
+  .player__clock { display: none !important; }
+
+  .tag {
+    border: 0.4pt solid #999 !important;
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  table { min-width: 0 !important; font-size: 10.5pt; }
+  th, td { border-bottom: 0.4pt solid #bbb !important; padding: 5pt 8pt 5pt 0 !important; }
+  .table-scroll { overflow: visible !important; }
+
+  /* Practice handouts get a printed footer line for context */
+  .print-footer { display: block !important; }
+  .print-footer {
+    margin-top: 16pt;
+    padding-top: 6pt;
+    border-top: 0.6pt solid #999;
+    font-size: 9pt;
+    color: #333;
+  }
+}
+
+/* Hidden on screen, shown on paper */
+.print-footer { display: none; }

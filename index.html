@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Longhold Yoga | Free Pose Guides, Sequences and Breathwork for Beginners</title>
+<meta name="description" content="Free, plainly written yoga pose breakdowns, timed sequences and breathwork guides for beginners in the United States. Chair, wall and prop options throughout.">
+<link rel="canonical" href="https://www.longholdyoga.com/index.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#F7F3EC">
+
+<!-- Open Graph / social -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Longhold Yoga">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Longhold Yoga | Free Pose Guides, Sequences and Breathwork for Beginners">
+<meta property="og:description" content="Free, plainly written yoga pose breakdowns, timed sequences and breathwork guides for beginners in the United States. Chair, wall and prop options throughout.">
+<meta property="og:url" content="https://www.longholdyoga.com/index.html">
+<meta property="og:image" content="https://images.unsplash.com/photo-1695381537936-75410f457e12?w=1200&h=630&fit=crop&q=70&fm=jpg">
+<meta property="og:image:alt" content="An empty yoga studio with bare wood floors and morning light through tall windows">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Longhold Yoga | Free Pose Guides, Sequences and Breathwork for Beginners">
+<meta name="twitter:description" content="Free, plainly written yoga pose breakdowns, timed sequences and breathwork guides for beginners in the United States. Chair, wall and prop options throughout.">
+<meta name="twitter:image" content="https://images.unsplash.com/photo-1695381537936-75410f457e12?w=1200&h=630&fit=crop&q=70&fm=jpg">
+
+<!-- Icons -->
+<link rel="icon" href="assets/img/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+
+<!-- Type: Fraunces for headings, Inter for body and labels -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.unsplash.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/print.css" media="print">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.longholdyoga.com/#org",
+      "name": "Longhold Yoga",
+      "url": "https://www.longholdyoga.com/",
+      "email": "hello@longholdyoga.com",
+      "telephone": "+1-503-555-0147",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1412 SE Cortland Avenue, Suite 3",
+        "addressLocality": "Portland",
+        "addressRegion": "OR",
+        "postalCode": "97202",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.longholdyoga.com/#website",
+      "url": "https://www.longholdyoga.com/",
+      "name": "Longhold Yoga",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://www.longholdyoga.com/#org"
+      },
+      "description": "Free yoga pose guides, sequences and breathwork instruction written for beginners."
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.longholdyoga.com/index.html",
+      "url": "https://www.longholdyoga.com/index.html",
+      "name": "Longhold Yoga",
+      "isPartOf": {
+        "@id": "https://www.longholdyoga.com/#website"
+      }
+    }
+  ]
+}
+</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- ==================== Site header ==================== -->
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="wordmark" href="index.html">Long<span>hold</span></a>
+      <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">
+        <span class="nav-toggle__glyph" aria-hidden="true">☰</span>
+        <span class="nav-toggle__text">Menu</span>
+      </button>
+      <nav class="nav" id="primary-nav" aria-label="Primary">
+      <ul class="nav__list">
+      <li><a class="nav__link" href="start-here.html">Start Here</a></li>
+      <li><a class="nav__link" href="pose-library.html">Poses</a></li>
+      <li><a class="nav__link" href="sequences.html">Sequences</a></li>
+      <li class="nav__group">
+      <button type="button" class="nav__trigger" id="learn-trigger" aria-expanded="false" aria-controls="learn-menu">Learn <span class="caret" aria-hidden="true">▾</span></button>
+      <ul class="nav__menu" id="learn-menu" aria-labelledby="learn-trigger" hidden>
+      <li><a href="styles-explained.html">Styles Explained</a></li>
+      <li><a href="breathwork-basics.html">Breathwork Basics</a></li>
+      <li><a href="props-guide.html">Props and Modifications</a></li>
+      <li><a href="practice-at-home.html">Practice at Home</a></li>
+      <li><a href="glossary.html">Glossary</a></li>
+      </ul></li>
+      <li><a class="nav__link" href="blog.html">Guides</a></li>
+      <li><a class="nav__link" href="pricing.html">Membership</a></li>
+      <li><a class="nav__link" href="about.html">About</a></li>
+      </ul></nav>
+    </div>
+  </header>
+
+  <!-- ==================== Breath-pacing bar (site signature) ====================
+       Shows the inhale and exhale count for whatever is being practiced on this
+       page. Animation is opt-in and is suppressed under prefers-reduced-motion,
+       where the pattern is shown as plain text instead.
+       ========================================================================= -->
+  <div class="breath-bar" data-inhale="4" data-hold="0" data-exhale="6" role="region" aria-label="Breath pacing for this page">
+    <div class="wrap breath-inner">
+      <span class="breath-label">Reading pace</span>
+      <div class="breath-rail" aria-hidden="true"><span class="breath-fill"></span></div>
+      <span class="breath-count" role="status" aria-live="off">Inhale 4 · Exhale 6</span>
+      <button type="button" class="breath-toggle" aria-pressed="false">Start pacing</button>
+    </div>
+  </div>
+
+  <main id="main">
+    <!-- ==================== Hero ==================== -->
+    <section class="hero wrap">
+      <div class="hero__grid">
+        <div>
+          <h1>Yoga, written down plainly.</h1>
+          <p class="hero__promise">Free pose breakdowns and timed sequences, with a chair, wall or block option written into every shape.</p>
+          <div class="btn-row">
+            <a class="btn btn--primary" href="start-here.html">Start here</a>
+            <a class="btn btn--outline" href="pose-library.html">Browse poses</a>
+          </div>
+        </div>
+        <figure class="hero__media" style="margin:0">
+          <img src="https://images.unsplash.com/photo-1695381537936-75410f457e12?w=1120&h=840&fit=crop&q=75&fm=jpg"
+               alt="An empty studio with bare wooden floorboards, pale walls and morning light coming through tall windows"
+               width="1120" height="840" fetchpriority="high" decoding="async">
+          <figcaption class="hero__caption">A room, a floor and enough light to see your hands. That is the whole equipment list.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- ==================== Three ways in ==================== -->
+    <section class="section wrap reveal" aria-labelledby="ways-in">
+      <div class="measure measure--left section__head">
+        <h2 id="ways-in">Three ways to begin</h2>
+        <p>Most people arrive here in one of three states: never done this before, know a pose name and want the detail, or have twenty minutes free and no plan. Each one has a door.</p>
+      </div>
+      <ol class="steps measure measure--left">
+        <li>
+          <div>
+            <h3 class="tight"><a class="textlink" href="start-here.html">Never practiced before</a></h3>
+            <p>The beginner's guide covers what to wear, what you genuinely need to buy, how long to practice and what the Sanskrit names mean. It takes about twelve minutes to read and answers the questions people are usually too self-conscious to ask in a studio.</p>
+          </div>
+        </li>
+        <li>
+          <div>
+            <h3 class="tight"><a class="textlink" href="pose-library.html">Looking up a specific pose</a></h3>
+            <p>Thirty-six poses indexed by English and Sanskrit name, filterable by difficulty, by the part of the body that moves and by the prop required. Six of them carry a full breakdown card with entry steps, alignment cues, breath pattern, hold time, common mistakes, modifications and contraindications.</p>
+          </div>
+        </li>
+        <li>
+          <div>
+            <h3 class="tight"><a class="textlink" href="sequences.html">Have a spare ten minutes</a></h3>
+            <p>Four complete sequences, from eight minutes in a desk chair to a forty-minute gentle practice. Every one lists its total duration, its difficulty, the props it needs and a pose-by-pose order with hold times. Each has a timer built into the page and a printable practice handout.</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <!-- Ad slot: sits below the first block of real content, never in the fold,
+         never adjacent to navigation or a button. -->
+    <div class="wrap" style="padding-bottom:56px">
+      <aside class="ad-slot" aria-label="Advertisement">
+        <span class="ad-slot__label">Advertisement</span>
+        <div class="ad-slot__frame">Reserved 728 &times; 90 display slot. Space is held at all breakpoints so nothing on the page moves when an ad loads.</div>
+      </aside>
+    </div>
+
+    <!-- ==================== Featured sequence ==================== -->
+    <section class="section section--tint reveal" aria-labelledby="featured-seq">
+      <div class="wrap">
+        <div class="hero__grid">
+          <figure style="margin:0">
+            <img src="https://images.unsplash.com/photo-1764726331220-b323be2b57b5?w=1000&h=750&fit=crop&q=72&fm=jpg"
+                 alt="Early sunlight falling in a long rectangle across a bare wooden floor beside a window"
+                 width="1000" height="750" loading="lazy" decoding="async"
+                 style="border-radius:6px;aspect-ratio:4/3;object-fit:cover;width:100%">
+          </figure>
+          <div>
+            <h2 id="featured-seq">The ten-minute morning sequence</h2>
+            <p>Ten poses in ten minutes, done before you have made coffee. It moves the spine in all six of its directions, opens the front of the hips after a night of lying down, and puts weight through the hands and feet.</p>
+            <ul class="tags" style="margin-bottom:20px">
+              <li><span class="tag">10 minutes</span></li>
+              <li><span class="tag">Beginner</span></li>
+              <li><span class="tag">Mat and a wall</span></li>
+              <li><span class="tag">Chair path included</span></li>
+            </ul>
+            <p class="small">A seated variation runs alongside the standing version, pose for pose, so the sequence works from a chair without cutting anything out.</p>
+            <div class="btn-row">
+              <a class="btn btn--olive" href="sequence-morning-10.html">Open the sequence</a>
+              <a class="btn btn--outline" href="sequences.html">See all four</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== What a breakdown card looks like ==================== -->
+    <section class="section wrap reveal" aria-labelledby="breakdown-demo">
+      <div class="measure measure--left section__head">
+        <h2 id="breakdown-demo">What a pose guide contains</h2>
+        <p>Every pose page is built on the same card, so once you have read one you know where to look on all of them. This is the top of the guide for Child's Pose, shown in full.</p>
+      </div>
+
+      <div class="measure measure--left">
+        <article class="breakdown">
+          <div class="breakdown__head">
+            <h3>Child's Pose</h3>
+            <p class="breakdown__sanskrit">B&#257;l&#257;sana &nbsp;<span class="small">(BAH-lah-suh-nuh)</span></p>
+            <ul class="tags">
+              <li><span class="tag tag--solid">Beginner</span></li>
+              <li><span class="tag">Hips and spine</span></li>
+              <li><span class="tag">No prop required</span></li>
+            </ul>
+          </div>
+
+          <dl class="spec-grid">
+            <div><dt>Breath pattern</dt><dd>Inhale 4, exhale 8. Let the exhale be the longer half.</dd></div>
+            <div><dt>Suggested hold</dt><dd>1 to 3 minutes</dd></div>
+            <div><dt>Body area</dt><dd>Hips, lower back, ankles, shoulders</dd></div>
+            <div><dt>Props that help</dt><dd>Bolster, blanket, block, chair</dd></div>
+          </dl>
+
+          <div class="breakdown__block">
+            <span class="label">Entry steps</span>
+            <ul>
+              <li>Kneel with your shins on the floor and your big toes touching behind you.</li>
+              <li>Choose your knee width: together for a narrower shape, or as wide as the mat for more room at the front of the body.</li>
+              <li>Send your hips back toward your heels as far as they comfortably travel. They do not have to arrive.</li>
+              <li>Walk your hands forward and lower your forehead toward the mat, a stacked fist or a block.</li>
+              <li>Let the shoulders release and the jaw unclench.</li>
+            </ul>
+          </div>
+
+          <div class="breakdown__block">
+            <span class="label">Alignment cues</span>
+            <ul>
+              <li>Forehead supported, not hanging. If it does not reach the floor, bring the floor up to it.</li>
+              <li>Sit bones traveling back rather than the chest pressing down.</li>
+              <li>Ankles long, tops of the feet on the mat, not tucked under.</li>
+            </ul>
+          </div>
+
+          <p class="small" style="margin-bottom:0">The full page continues with common mistakes, four modifications, a progression and a contraindication note. <a class="textlink" href="pose-childs-pose.html">Read the whole guide</a>.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ==================== Styles at a glance ==================== -->
+    <section class="section wrap reveal" aria-labelledby="styles-glance">
+      <div class="measure measure--left section__head">
+        <h2 id="styles-glance">Six styles, in one sentence each</h2>
+        <p>Class listings assume you already know what these words mean. Here is the short version, with the long version a click away.</p>
+      </div>
+      <dl class="glossary measure measure--left">
+        <div>
+          <dt>Hatha</dt>
+          <dd>Poses held for several breaths at a moderate pace, with time to set each one up. The most common label for a general-level class.</dd>
+        </div>
+        <div>
+          <dt>Vinyasa</dt>
+          <dd>Poses linked into continuous sequences timed to the breath, so the class moves almost the whole time.</dd>
+        </div>
+        <div>
+          <dt>Yin</dt>
+          <dd>Mostly seated and lying shapes held for two to five minutes with the muscles deliberately relaxed.</dd>
+        </div>
+        <div>
+          <dt>Restorative</dt>
+          <dd>Six to eight shapes, each fully propped with bolsters and blankets, held for five to twenty minutes.</dd>
+        </div>
+        <div>
+          <dt>Iyengar</dt>
+          <dd>Precise alignment, long detailed instruction and heavy use of props. Expect to spend real time in a single pose.</dd>
+        </div>
+        <div>
+          <dt>Ashtanga</dt>
+          <dd>A fixed sequence practiced in the same order every time, at a vigorous pace, usually early in the morning.</dd>
+        </div>
+      </dl>
+      <p class="measure measure--left" style="margin-top:24px"><a class="textlink" href="styles-explained.html">Read the full comparison of all six styles</a></p>
+    </section>
+
+    <!-- ==================== Business model, in plain English ==================== -->
+    <section class="section section--tint reveal" aria-labelledby="funding">
+      <div class="wrap measure measure--left">
+        <h2 id="funding">How this site is funded</h2>
+        <p>Every pose guide, every sequence and every written article on this site is free to read, with no account and no paywall. That is not a promotion. It is the arrangement, and it is paid for in five specific ways.</p>
+        <ul>
+          <li><strong>Display advertising.</strong> Labeled ad slots sit below the main content of each page. They never sit above it, never touch a button and never cover what you came to read.</li>
+          <li><strong>An optional membership.</strong> $6 per month or $54 per year in USD removes the ads and adds downloadable sequence PDFs, saved practice collections and printable pose cards. It never unlocks instruction that used to be free.</li>
+          <li><strong>Affiliate commissions</strong> on mats, blocks, straps and bolsters. If you buy through one of our links we earn a commission at no extra cost to you, and the disclosure appears at the link itself, not only in the footer.</li>
+          <li><strong>Paid digital products,</strong> such as the downloadable beginner program and the sequence bundles.</li>
+          <li><strong>Sponsored articles and brand partnerships,</strong> each labeled as sponsored at the top of the page before the first paragraph.</li>
+        </ul>
+        <p>There is also a free listing tier in the <a class="textlink" href="find-a-teacher.html">teacher directory</a>, with a paid featured placement above it. Featured listings are marked as featured.</p>
+        <div class="btn-row">
+          <a class="btn btn--outline" href="pricing.html">See what membership includes</a>
+          <a class="btn btn--outline" href="advertising-disclosure.html">Read the full disclosure</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== Newsletter ==================== -->
+    <section class="section wrap reveal" aria-labelledby="nl-home">
+      <div class="measure measure--left">
+        <h2 id="nl-home">The Monday Sequence</h2>
+        <p>One short practice and one written note, every Monday morning. Free, and one click unsubscribes you for good.</p>
+        <form class="form-stack" data-validate id="newsletter-home" novalidate
+              data-success-message="You are on the list. Check your inbox for a confirmation email from Longhold Yoga, sent from hello@longholdyoga.com.">
+          <div class="field">
+            <label for="nl-home-email">Email address</label>
+            <input type="email" id="nl-home-email" name="email" required autocomplete="email"
+                   placeholder="you@example.com" data-msg-required="Enter your email address so we know where to send it.">
+            <p class="field__error" role="alert"></p>
+          </div>
+          <button type="submit" class="btn btn--primary">Subscribe free</button>
+          <p class="form-note">Sent by Longhold Yoga, 1412 SE Cortland Avenue, Suite 3, Portland, OR 97202, United States. Every email identifies us as the sender, carries that mailing address and includes a working one-click unsubscribe link. We do not sell or share your address. See the <a class="textlink" href="privacy-policy.html">Privacy Policy</a>.</p>
+          <p class="form-status" role="status"></p>
+        </form>
+      </div>
+    </section>
+
+    <!-- ==================== Safety ==================== -->
+    <section class="section wrap reveal" aria-labelledby="safety-home">
+      <div class="measure measure--left">
+        <h2 id="safety-home">Before you practice</h2>
+        <div class="callout callout--safety">
+          <span class="label">Health and safety</span>
+          <p>Longhold Yoga publishes general movement education. It is not medical advice, and nothing here treats, prevents or manages any health condition. Speak with a qualified healthcare professional before beginning a new physical practice, particularly if you are pregnant, recently injured, post-surgical or managing a health condition. If a pose hurts, come out of it. For hands-on guidance, work with a qualified teacher in person.</p>
+          <p style="margin-bottom:0"><a class="textlink" href="health-safety-disclaimer.html">Read the full health and safety disclaimer</a></p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ==================== Site footer ==================== -->
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+
+        <div class="footer-col footer-brand">
+          <a class="wordmark" href="index.html">Long<span>hold</span></a>
+          <!-- PLACEHOLDER — REPLACE WITH REAL VERIFIED INFORMATION BEFORE LAUNCH -->
+          <address>
+            Longhold Yoga<br>
+            1412 SE Cortland Avenue, Suite 3<br>
+            Portland, OR 97202<br>
+            United States<br>
+            <a href="tel:+15035550147">+1 (503) 555-0147</a><br>
+            <a href="mailto:hello@longholdyoga.com">hello@longholdyoga.com</a>
+          </address>
+          <p class="small">General movement education. Not medical advice.<br>
+            <a class="textlink" href="health-safety-disclaimer.html">Read the health and safety disclaimer</a></p>
+        </div>
+
+        <div class="footer-col">
+          <h2>Practice</h2>
+          <ul>
+            <li><a href="start-here.html">Start Here</a></li>
+            <li><a href="pose-library.html">Pose Library</a></li>
+            <li><a href="sequences.html">Sequences</a></li>
+            <li><a href="breathwork-basics.html">Breathwork Basics</a></li>
+            <li><a href="props-guide.html">Props and Modifications</a></li>
+            <li><a href="practice-at-home.html">Practice at Home</a></li>
+            <li><a href="glossary.html">Glossary</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h2>Longhold</h2>
+          <ul>
+            <li><a href="styles-explained.html">Styles Explained</a></li>
+            <li><a href="blog.html">Guides and Articles</a></li>
+            <li><a href="newsletter.html">Newsletter</a></li>
+            <li><a href="pricing.html">Pricing and Membership</a></li>
+            <li><a href="find-a-teacher.html">Find a Teacher</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="work-with-us.html">Work With Us</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h2>Policies</h2>
+          <ul>
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="terms-of-use.html">Terms of Use</a></li>
+            <li><a href="cookie-policy.html">Cookie Policy</a></li>
+            <li><a href="advertising-disclosure.html">Advertising and Affiliate Disclosure</a></li>
+            <li><a href="health-safety-disclaimer.html">Health and Safety Disclaimer</a></li>
+            <li><a href="accessibility-statement.html">Accessibility Statement</a></li>
+            <li><a href="privacy-policy.html#ccpa">Do Not Sell or Share My Personal Information</a></li>
+            <li><a href="cookie-policy.html#settings" data-cookie-settings>Cookie settings</a></li>
+          </ul>
+        </div>
+
+      </div>
+
+      <!-- Plain-English funding statement, repeated site-wide -->
+      <section class="footer-fund" aria-labelledby="funding-heading">
+        <h2 id="funding-heading">How this site is funded</h2>
+        <p>The pose library, the sequences and the written guides are free to read and always will be. That work is paid for by display advertising, by an optional paid membership, by commissions on props we link to, and by paid digital downloads. Sponsored articles are labeled as sponsored at the top of the page before you read a word of them. Affiliate links are disclosed at the link itself, not only down here. <a class="textlink" href="advertising-disclosure.html">Read the full disclosure</a>.</p>
+      </section>
+
+      <div class="footer-legal">
+        <span>&copy; <span data-year>2026</span> Longhold Yoga. All rights reserved.</span>
+        <a href="privacy-policy.html#ccpa">Do Not Sell or Share My Personal Information</a>
+        <a href="cookie-policy.html#settings" data-cookie-settings>Cookie settings</a>
+        <a href="contact.html">Contact Longhold Yoga</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ==================== Cookie consent ====================
+       Non-essential cookies are not set until a choice is recorded here.
+       ======================================================== -->
+  <div class="cookie-banner" id="cookie-banner" role="dialog" aria-modal="false" aria-labelledby="cookie-title" hidden>
+    <div class="cookie-banner__inner">
+      <div>
+        <p id="cookie-title"><strong>Cookies on this site.</strong> We use cookies that are strictly necessary to make the site work. With your permission we would also like to use analytics cookies and advertising cookies, including cookies set by Google and other advertising vendors. Nothing beyond the strictly necessary set is loaded until you choose. Read the <a href="cookie-policy.html">Cookie Policy</a> and the <a href="privacy-policy.html">Privacy Policy</a>.</p>
+        <div class="cookie-prefs" id="cookie-prefs" hidden>
+          <fieldset>
+            <legend>Manage your preferences</legend>
+            <div class="checkline">
+              <input type="checkbox" id="cookie-essential" checked disabled>
+              <label for="cookie-essential"><strong>Strictly necessary.</strong> Always on. Remembers your cookie choice and keeps pages working.</label>
+            </div>
+            <div class="checkline">
+              <input type="checkbox" id="cookie-analytics">
+              <label for="cookie-analytics"><strong>Analytics.</strong> Anonymous counts of which guides get read, so we know what to write next.</label>
+            </div>
+            <div class="checkline">
+              <input type="checkbox" id="cookie-ads">
+              <label for="cookie-ads"><strong>Advertising.</strong> Lets Google and other vendors serve and measure ads, including personalized ads.</label>
+            </div>
+            <button type="button" class="btn btn--outline btn--sm" id="cookie-save">Save preferences</button>
+          </fieldset>
+        </div>
+      </div>
+      <div class="cookie-banner__actions">
+        <button type="button" class="btn btn--primary btn--sm" id="cookie-accept">Accept all</button>
+        <button type="button" class="btn btn--outline btn--sm" id="cookie-reject">Reject non-essential</button>
+        <button type="button" class="btn btn--outline btn--sm" id="cookie-manage" aria-expanded="false" aria-controls="cookie-prefs">Manage preferences</button>
+      </div>
+    </div>
+  </div>
+
+  <button type="button" class="back-to-top" id="back-to-top" aria-label="Back to top of page">
+    <span aria-hidden="true">↑</span>
+  </button>
+
+  <script src="assets/js/main.js" defer></script>
+</body>
+</html>
